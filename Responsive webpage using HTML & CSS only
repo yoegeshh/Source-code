@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@3.4.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="new.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Tajawal&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="main">
+      <div id="left">
+        <div id="lnav">
+          <i class="ri-arrow-left-line"></i>
+          <div id="lnavr">
+            <a href="">About</a><a href="">Contact Me</a
+            ><i class="ri-instagram-fill"></i>
+          </div>
+          <div id="textcenter">
+            <h1>Hello,</h1>
+            <p>
+              I'm Yogesh. This project is made using Html and CSS. This is also a
+              responsive site
+            </p>
+            <a href="#">Read more</a>
+          </div>
+        </div>
+      </div>
+      <div id="right">
+        <div id="rtop">
+          <div id="rtopl"></div>
+          <div id="rtopr"></div>
+        </div>
+        <div id="rbottom"></div>
+      </div>
+    </div>
+  </body>
+</html>
