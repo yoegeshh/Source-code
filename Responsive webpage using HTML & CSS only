@@ -24,14 +24,13 @@
         <div id="lnav">
           <i class="ri-arrow-left-line"></i>
           <div id="lnavr">
-            <a href="">About</a><a href="">Contact Me</a
+            <a href="about.html">About</a><a href="">Contact Me</a
             ><i class="ri-instagram-fill"></i>
           </div>
           <div id="textcenter">
             <h1>Hello,</h1>
             <p>
-              I'm Yogesh. This project is made using Html and CSS. This is also a
-              responsive site
+              I'm Yogesh. This project developed using Html and CSS. This site is responsive too.
             </p>
             <a href="#">Read more</a>
           </div>
