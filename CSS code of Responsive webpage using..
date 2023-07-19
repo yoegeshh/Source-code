@@ -29,6 +29,7 @@ html,body{
     padding: 20px 30px;
 }
 
+
 #lnavr{
     display: flex;
     align-items: center;
@@ -44,11 +45,12 @@ html,body{
 }
 
 #lnavr a:hover{
-    color: red;
+    color: rgb(215, 164, 164);
 }
 
 #lnavr i{
     color: red;
+    size:500px;
 }
 
 #left #textcenter{
@@ -61,6 +63,10 @@ html,body{
 #textcenter h1{
     font-size: 90px;
     font-weight: 900;
+}
+
+#textcenter h1:hover{
+    font-size:120px;
 }
 
 #textcenter p{
@@ -81,6 +87,10 @@ html,body{
     opacity: .6;
 }
 
+#textcenter a:hover{
+    color: royalblue;
+}
+
 #right{
      width: 60%;
      height: 100%;
@@ -97,14 +107,14 @@ html,body{
 #rtopl{
     width: 55%;
     height: 100%;
-    background-image: url(https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80);
+    background-image: url(https://img.freepik.com/free-vector/man-sysadmine-computer-programmer-working-computer_575670-70.jpg?w=900&t=st=1689681351~exp=1689681951~hmac=41197f228cfcfd810d050d3db3ea393da2aab9172473e444f38824e55fff283c);
     background-position: center;
     background-size: cover;
 }
 #rtopr{
     width: 45%;
     height: 100%;
-    background-image: url(https://images.unsplash.com/photo-1606757389723-23c4bf501fba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80);
+    background-image: url(https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?w=740&t=st=1689691358~exp=1689691958~hmac=6b3f97b205b7f4f14ee97b4a8d655517414832d7a98a51d79e6e61f2a0d42d64);
     background-size: cover;
     background-position: center;
 }
@@ -112,9 +122,9 @@ html,body{
 #rbottom{
      width: 100%;
      height: 50%;
-     background-image: url(https://images.unsplash.com/photo-1552255349-450c59a5ec8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80);
-     background-size: cover;
-     background-position: center;
+     background-image: url(https://img.freepik.com/free-vector/college-university-students-group-young-happy-people-standing-isolated-white-background_575670-66.jpg?w=826&t=st=1689681088~exp=1689681688~hmac=f68b3efdd8a9015640e67d8057cfb57c2b97b54557d1222a5033769664dab3f0);
+     background-size:contain;
+     background-position:center;
 }
 
 @media(max-width: 500px){
